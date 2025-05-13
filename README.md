@@ -112,7 +112,6 @@ This portfolio is automatically deployed on Vercel whenever changes are pushed t
 *   **Shervan Shahparnia**
 *   **GitHub:** [SShahparnia](https://github.com/SShahparnia)
 *   **LinkedIn:** [Shervan Shahparnia](https://www.linkedin.com/in/shervan-shahparnia/)
-*   **Email:** (You can add your email here if you wish, or direct them to the contact form on the site)
 
 Feel free to reach out if you have any questions or opportunities!
 
