@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Predictive Analytics for Safer Roads",
+    "description": "A full-stack pipeline to predict U.S. traffic accident severity",
+    "tech": ["Python", "Google Cloud", "BigQuery", "PyTorch", "Dash"],
+    "duration": "January 2025 - Present",
+    "details": [
+      "Built a full-stack pipeline to predict U.S. traffic accident severity using BigQuery, PyTorch neural networks, and Plotly Dash on Google App Engine.",
+      "Engineered over 20 weather, road, and time-based features and trained classification models to distinguish severity levels with high accuracy.",
+      "Used NLP to classify potential causes from accident descriptions and visualized findings through interactive dashboards."
+    ],
+    "githubLink": "https://github.com/SShahparnia/traffic-analysis",
+    "liveLink": null
+  },
+  {
+    "name": "HARTH Human Activity Recognition",
+    "description": "Human activity recognition using time and frequency domain features from motion sensors",
+    "tech": [
+      "Python",
+      "Jupyter Notebook",
+      "Scikit-Learn",
+      "Random Forest",
+      "FFT"
+    ],
+    "duration": "March 2025 - May 2025",
+    "details": [
+      "Segmented motion sensor data using a sliding window approach and extracted time and frequency domain features including mean, std, skewness, and FFT components.",
+      "Trained and evaluated multiple models including KNN, SVM, and Random Forest, achieving over 82% accuracy in LOSO (Leave-One-Subject-Out) cross-validation.",
+      "Demonstrated the effectiveness of classical ML over deep learning for lightweight and interpretable human activity classification."
+    ],
+    "githubLink": "https://github.com/SShahparnia/HARTH-Human-Activity-Recognition",
+    "liveLink": null
+  },
+  {
+    "name": "Club-Hub",
+    "description": "A comprehensive platform for university club management",
+    "tech": ["JavaScript", "React", "Node.js", "MySQL", "CSS", "HTML"],
+    "duration": "Dec 2024 - Present",
+    "details": [
+      "Developed and deployed a club management platform using React for the front-end and Node.js for the backend, implementing dashboard navigation, dark mode, and club creation features to enhance user experience.",
+      "Collaborated with a cross-functional team to build a real-time Chat Room with @mention functionality, integrating Node.js backend queries for seamless communication.",
+      "Engineered secure authentication by designing React components and Node.js middleware for sign-up functionality, private routes, and user restrictions."
+    ],
+    "githubLink": "https://github.com/SShahparnia/Club-Hub",
+    "liveLink": ""
+  },
+  {
+    "name": "Food Image Classification",
+    "description": "CNN-based food image classification using ResNet50 and Food11 Dataset",
+    "tech": ["Python", "PyTorch", "CNN", "Transfer Learning"],
+    "duration": "October 2024 - November 2024",
+    "details": [
+      "Built a convolutional neural network to classify food images across multiple categories using transfer learning with pre-trained ResNet architecture.",
+      "Implemented data augmentation techniques and fine-tuning strategies to improve model accuracy.",
+      "Created visualizations to analyze model performance and feature importance."
+    ],
+    "githubLink": "https://github.com/SShahparnia/Food-Image-Classification",
+    "liveLink": null
+  }
+]
