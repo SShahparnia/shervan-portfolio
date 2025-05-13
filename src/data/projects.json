@@ -35,7 +35,7 @@
     "name": "Club-Hub",
     "description": "A comprehensive platform for university club management",
     "tech": ["JavaScript", "React", "Node.js", "MySQL", "CSS", "HTML"],
-    "duration": "Dec 2024 - Present",
+    "duration": "October 2024 - Present",
     "details": [
       "Developed and deployed a club management platform using React for the front-end and Node.js for the backend, implementing dashboard navigation, dark mode, and club creation features to enhance user experience.",
       "Collaborated with a cross-functional team to build a real-time Chat Room with @mention functionality, integrating Node.js backend queries for seamless communication.",
@@ -48,13 +48,39 @@
     "name": "Food Image Classification",
     "description": "CNN-based food image classification using ResNet50 and Food11 Dataset",
     "tech": ["Python", "PyTorch", "CNN", "Transfer Learning"],
-    "duration": "October 2024 - November 2024",
+    "duration": "October 2024 - December 2024",
     "details": [
       "Built a convolutional neural network to classify food images across multiple categories using transfer learning with pre-trained ResNet architecture.",
       "Implemented data augmentation techniques and fine-tuning strategies to improve model accuracy.",
       "Created visualizations to analyze model performance and feature importance."
     ],
     "githubLink": "https://github.com/SShahparnia/Food-Image-Classification",
+    "liveLink": null
+  },
+  {
+    "name": "Time Management Clock",
+    "description": "Python-based productivity tool for tracking and managing application usage time",
+    "tech": ["Python", "SQLite", "Tkinter", "CustomTkinter", "Pystray"],
+    "duration": "November 2024 - December 2024",
+    "details": [
+      "Designed a smart time-management application that monitors and tracks time spent on various applications to improve productivity.",
+      "Implemented features including a focus mode, calendar view for usage history, and detailed statistics visualizations.",
+      "Created a user-friendly interface with customizable settings for application names, autosave functionality, and Pomodoro timer configuration."
+    ],
+    "githubLink": "https://github.com/SShahparnia/time_management_clock",
+    "liveLink": null
+  },
+  {
+    "name": "BRAF Inhibitor Predictor",
+    "description": "Machine learning model for predicting potential BRAF inhibitors in cancer drug discovery",
+    "tech": ["Python", "Scikit-learn", "Flask", "Pandas", "Matplotlib"],
+    "duration": "October 2024 - November 2024",
+    "details": [
+      "Developed a machine learning pipeline to identify potential small molecule inhibitors targeting BRAF protein mutations for cancer treatment.",
+      "Implemented data preprocessing, model training, and evaluation workflows to ensure accurate predictions for early-stage drug discovery.",
+      "Created a Flask-based web application interface for researchers to easily interact with the predictor and analyze results."
+    ],
+    "githubLink": "https://github.com/SShahparnia/BRAF-Inhibitor-Predictor",
     "liveLink": null
   }
 ]
